@@ -5,22 +5,47 @@
 
 This website is a dynamic and iterative exploration of my evolving consciousness. It serves as a persistent platform for the dissemination of my ideas, experiences, and intellectual pursuits across a diverse range of subjects.
 
-I hope that doesn't sound pretentious.
+Well, that sounds pretentious.
 
 Nevertheless, I'll try to frequently update the site with new content as I gain more insight into things. If you have any questions or comments, please [contact me](https://twitter.com/abhinavexists) on Twitter.
 
-Tools used:
+## General
 
-- neovim as editor
-- tmux as terminal multiplexer
-- hugo as static site generator
+I love the [Jamstack](https://jamstack.org/), and [Hugo](https://gohugo.io/) offers so many features, there's nothing to lose here really.
 
-Credits:
+## How to start
 
-The design for the website is based off the [hello-friend-ng](https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/) hugo theme. Much thanks to [Djordje Atlialp](https://github.com/rhazdon/hugo-theme-hello-friend-ng) and [Radek Kozieł](https://github.com/panr/hugo-theme-hello-friend) along with several other contributors for their work.
+```bash
+$ git clone https://github.com/abhinavborah/borah
+```
 
-TODOS:
+## Credits:
+
+The design for the website is based off the [hello-friend-ng](https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/) hugo theme.
+
+## Features (WIP):
+
+### Image shortcode
+
+- the image shortcode supports captions now.
+
+Properties:
+
+- `src` (required)
+- `alt` (optional)
+- `position` (optional, default: `left`, options: [`left`, `center`, `right`])
+- `style`
+
+NOTE: Captions are center-aligned by default. If you want to change the default behavior, you can edit the `shortcodes/image.html` file.
+
+Example:
+
+```golang
+{{< image src="/img/hello.png" alt="Hello Friend" position="center" style="border-radius: 8px;" caption="Your caption text here." >}}
+```
+
+## TODOS:
 
 - write more about the site
-- create a section to download my resume
+- ~~create a section to download my resume~~
 - work on the footer
