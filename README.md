@@ -5,7 +5,9 @@
 
 This website is a dynamic and iterative exploration of my evolving consciousness. It serves as a persistent platform for the dissemination of my ideas, experiences, and intellectual pursuits across a diverse range of subjects.
 
-I'll try to frequently update the site with new content as I gain more insight into things. If you have any questions or comments, please [contact me](https://twitter.com/abhinavexists) on Twitter.
+I hope that doesn't sound pretentious.
+
+Nevertheless, I'll try to frequently update the site with new content as I gain more insight into things. If you have any questions or comments, please [contact me](https://twitter.com/abhinavexists) on Twitter.
 
 Tools used:
 
@@ -16,3 +18,9 @@ Tools used:
 Credits:
 
 The design for the website is based off the [hello-friend-ng](https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/) hugo theme. Much thanks to [Djordje Atlialp](https://github.com/rhazdon/hugo-theme-hello-friend-ng) and [Radek Kozieł](https://github.com/panr/hugo-theme-hello-friend) along with several other contributors for their work.
+
+TODOS:
+
+- write more about the site
+- create a section to download my resume
+- work on the footer
