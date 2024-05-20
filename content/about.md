@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2024-05-20T17:55:59+05:30
-draft: true
+draft: false
 comments: false
 images: [/img/hello-there.jpg]
 ---

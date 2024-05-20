@@ -1,7 +1,7 @@
 ---
 title: "Inception"
 date: 2024-05-20T03:01:57+05:30
-draft: true
+draft: false
 toc: false
 images:
 tags:
