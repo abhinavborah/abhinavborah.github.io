@@ -36,7 +36,7 @@ Properties:
 - `position` (optional, default: `left`, options: [`left`, `center`, `right`])
 - `style`
 
-NOTE: Captions are center-aligned by default. If you want to change the default behavior, you can edit the `shortcodes/image.html` file.
+NOTE: Captions are center-aligned by default. If you want to change the default behavior, you can edit the `layouts/shortcodes/image.html` file.
 
 Example:
 
