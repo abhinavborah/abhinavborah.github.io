@@ -45,7 +45,7 @@ readOtherPosts = "Read other posts"
 subtitle = ""
 
 [languages.en.params.logo]
-logoText = "cd ~"
+logoText = "whoami"
 logoHomeLink = "/"
 # or
 #
