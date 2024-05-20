@@ -3,7 +3,7 @@ title: "About"
 date: 2024-05-20T17:55:59+05:30
 draft: false
 comments: false
-images: [./img/hello-there.jpg]
+images: [hello-there.jpg]
 ---
 
 {{< image src="/img/hello-there.jpg" alt="Hello Friend" position="center" style="border-radius: 2rem;" caption="Me trying to convince why _hjkl_ is better than _arrow keys_.">}}
@@ -24,4 +24,4 @@ Sed aliquet purus in tempor efficitur. Sed egestas nulla in lacinia feugiat. Pha
 
 Nunc ut tincidunt justo. Duis rhoncus semper purus ac scelerisque. Duis vehicula metus at dignissim vehicula. Morbi vel est vitae nunc euismod porta. Vivamus purus lorem, porta ac magna eu, sagittis euismod odio. Sed sed nulla quis nulla tincidunt posuere. Aliquam erat volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec tincidunt metus id nunc rhoncus, a sagittis metus vulputate.
 
-check out my [📄 resume](./files/Abhinav_Borah_SWE_Resume.pdf)
+check out my [📄 resume](/files/Abhinav_Borah_SWE_Resume.pdf)
