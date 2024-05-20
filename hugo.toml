@@ -22,6 +22,8 @@ enableSharingButtons = true
 # Show a global language switcher in the navigation bar
 enableGlobalLanguageMenu = false
 
+enableInlineShortcodes = true
+
 # Metadata mostly used in document's head
 description = "My portfolio"
 keywords = "homepage, blog, portfolio"
@@ -40,7 +42,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 [languages.en.params]
 keywords = ""
 readOtherPosts = "Read other posts"
-subtitle = "Portfolio"
+subtitle = ""
 
 [languages.en.params.logo]
 logoText = "cd ~"
@@ -51,6 +53,11 @@ logoHomeLink = "/"
 # alt = "Your example logo alt text"
 
 # And you can even create generic menu
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
