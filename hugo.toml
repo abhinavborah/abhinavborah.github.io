@@ -1,4 +1,4 @@
-baseurl = "abhinavborah.github.io"
+baseurl = "localhost"
 title = "Abhinav Borah"
 languageCode = "en-us"
 paginate = 10
