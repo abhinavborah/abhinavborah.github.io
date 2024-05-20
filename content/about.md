@@ -11,20 +11,52 @@ tags:
 
 Hey, thank you for taking the time to visit my site. This site aims at being a brain dump for my thoughts, discoveries, and implementations. If you like reading please do consider checking out _the blog_.
 
-## About Me, Work, Qualification, Interests, et cetera.
+## _who am I; qualification; interests; tools I use; et cetera._
 
 I did my Bachelors in Computer Science and graduated this year (at the time of writing, 2024). Every now and then, I'll find myself [nerdsniped](https://xkcd.com/356/) by a totally different field of interest and would end up spending an unhealthy amount of time on the same. I play the [piano](https://www.youtube.com/watch?v=NKn39Cnd3nU), (used to)produce music, install [arch (btw)](https://github.com/abhinavborah/bspwm-dotfiles) on a potato PC to rice up my [dotfiles](https://github.com/abhinavborah/dotfiles), build a [3d-renderer in C](https://github.com/abhinavborah/crayte) from scratch. Some of my other interests include cinema, philosophy, and mechanical keyboards.
 
 - If you're willing to get in touch with me for work or something I can help with, I'd love to hear from you.
 - If you're my potential employer, **you can find my resume [here](/files/Abhinav_Borah_SWE_Resume.pdf)**.
 
-Here is a picture of me to prove that I am indeed a real person:
+{{< image src="/img/hello-there.jpg" alt="Hello Friend" position="center" style="border-radius: 2rem;" caption="Here is a picture of me and no this was not created by some generative pre-trained transformer." >}}
 
-{{< image src="/img/hello-there.jpg" alt="Hello Friend" position="center" style="border-radius: 2rem;" caption="Me trying to convince someone I met a minute ago why _hjkl_ is better than _arrow keys_.">}}
+My first access to a PC was in 2007. It had an Intel Core 2 Duo, 2 GB RAM, and 256 GB HDD. Ah, the good old simpler times. I was never really much into gaming (as my PC back then could barely handle it); for the few games my PC could run over the years, I would go online and come across mods which would add more playtime to it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel fringilla justo. Quisque ut vulputate magna. Sed eu cursus sem. Aliquam erat volutpat. Etiam quis ex sem. Nulla facilisi. Donec in scelerisque arcu.
+Some people on the forums were talking about 'Linux' which could bring new life to an old PC and I thought I should give it a try. Sometime in circa 2012 I finally managed to get Ubuntu working on my PC and that is how my journey with linux began. From there, I was amazed at the features it had to offer. Over the years, I've [distrohopped](https://en.wiktionary.org/wiki/distro-hopping) from Ubuntu to Manjaro to back to Windows (we don't talk about that) to Arch to Gentoo and back to Arch. It's been a messy journey with lots of ups and downs, I can't possibly count how many times I had to deal with kernel panics and reformat my drives; but hey, at the end of the day it drives me to gain more insight on things.
 
-{{< youtube w7Ft2ymGmfc >}}
+> _"But why should I step out of my comfort zone?"_
+
+Well, to err is human. To err is also to learn. To learn is to live. Feed your curiosity, the world is your oyster!
+
+{{< youtube 3Qec7Gj4DcQ >}}
+
+**Hardware:**
+
+- My current setup consists of a Macbook Air M1 (2020 base variant) and a Lenovo Legion 5 (running arch: zenkernel, dwm + polybar).
+- For typing, I use an RK84 with gateron browns, offers 3 modes of connectivity: wired, wireless, and bluetooth. Lasts about a week on full charge. (not sponsored but I won't mind being)
+- A Razer DeathAdder V2 mouse because hey, it offers wireless and bluetooth and runs only on a single AA/AAA battery! (not sponsored but I won't mind being)
+- My iPad Air (4th gen) as my secondary monitor (I plan on getting an actual external monitor soon).
+- iPhone 12 (2020, 128GB) as my daily driver.
+- iPhone SE (2020, 128GB) (16.3.1) which I jailbroke on [Dopamine](https://github.com/opa334/Dopamine) running the [KFD exploit](https://github.com/felix-pb/kfd).
+
+**Software:**
+
+- My IDE (read: text editor) is a fork of lazyvim (dots provided above).
+- tmux (with resurrect and continuum) for multiplexing and restoring sessions.
+- alacritty as my term because GPU acceleration goes brrr.
+- dwm + polybar on arch with gruvbox as my preferred color scheme (surprise, surprise).
+- rectangle on macOS for window management (I should consider switching to Amethyst or Yabai).
+
+**Tools I recommend:**
+
+- [mailnesia](https://mailnesia.com/): anonymous email service for when sites annoy you to provide your email address.
+- [uBlock Origin](https://github.com/gorhill/uBlock): content filtering on your browser(s).
+- [KeePassXC](https://keepassxc.org/) and [KeePassium](https://keepassium.com/): password management because you cannot expect to remember more than 3 passwords at a time.
+- [openvpn](https://github.com/OpenVPN/openvpn): vpn for daily use unless you reaaally need to be anonymous.
+- [qBittorent](https://github.com/qbittorrent/qBittorrent): P2P file sharing utility.
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) (macOS): utility to configure key mappings.
+
+If you have scrolled this far, thank you once again for taking the time to read my article. It means a lot to me. I'll be updating this section (along with new blog posts) occasionally so maybe the next time you visit my website you'll find something new.
 
 ## _(not all-inclusive) list of cool things i found on the internet and thought you should have a look_
 
