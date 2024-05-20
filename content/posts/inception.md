@@ -8,6 +8,8 @@ tags:
   - meta
 ---
 
-# Well, here goes nothing
+## Well, here goes nothing
 
-After much procrastination over the months, I've finally pushed myself to create my website.
+After putting it off for a while, I finally took the plunge and built this site. It's been a while since I posted anything, and that, combined with my love for clean developer portfolios motivated me to get started.
+
+I had a general idea for the design, but I wanted to keep things flexible. For the color scheme I thought [gruvbox](https://github.com/morhetz/gruvbox) was a safer bet to take. [Hugo](https://github.com/gohugoio/hugo) seemed like a good fit because I can write everything in markdown and it will SSG-fy it.
