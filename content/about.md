@@ -11,6 +11,8 @@ tags:
 
 Hey, thank you for taking the time to visit my site. This site aims at being a brain dump for my thoughts, discoveries, and implementations. If you like reading please do consider checking out _the blog_.
 
+#### মোৰ ব্লগলৈ আপোনাক স্বাগতম জনাইছো।
+
 ## _who am I; qualification; interests; tools I use; et cetera._
 
 I did my Bachelors in Computer Science and graduated this year (at the time of writing, 2024). Every now and then, I'll find myself [nerdsniped](https://xkcd.com/356/) by a totally different field of interest and would end up spending an unhealthy amount of time on the same. I play the [piano](https://www.youtube.com/watch?v=NKn39Cnd3nU), (used to)produce music, install [arch (btw)](https://github.com/abhinavborah/bspwm-dotfiles) on a potato PC to rice up my [dotfiles](https://github.com/abhinavborah/dotfiles), build a [3d-renderer in C](https://github.com/abhinavborah/crayte) from scratch. Some of my other interests include cinema, philosophy, and mechanical keyboards.
@@ -57,6 +59,8 @@ Well, to err is human. To err is also to learn. To learn is to live. Feed your c
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) (macOS): utility to configure key mappings.
 
 If you have scrolled this far, thank you once again for taking the time to read my article. It means a lot to me. I'll be updating this section (along with new blog posts) occasionally so maybe the next time you visit my website you'll find something new.
+
+#### মই আশা কৰোঁ আপুনি মোৰ প্ৰবন্ধবোৰ পঢ়ি ভাল পাব। মোৰ প্ৰবন্ধসমূহ পঢ়িবলৈ সময় লোৱাৰ বাবে আপোনাক আকৌ এবাৰ ধন্যবাদ।
 
 ## _(not all-inclusive) list of cool things i found on the internet and thought you should have a look_
 
