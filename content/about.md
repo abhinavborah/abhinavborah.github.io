@@ -9,7 +9,7 @@ tags:
   - meta
 ---
 
-Hey, thank you for taking the time to visit my site. This site aims at being a brain dump for my thoughts, discoveries, and implementations. If you like reading please do consider checking out _the blog_.
+Hey, thank you for taking the time to visit my site. This site aims at being a brain dump for my thoughts, discoveries, and implementations. If you like reading please do consider checking out _the [blog](/posts)_.
 
 #### মোৰ ব্লগলৈ আপোনাক স্বাগতম জনাইছো।
 
@@ -53,7 +53,7 @@ Well, to err is human. To err is also to learn. To learn is to live. Feed your c
 
 - [mailnesia](https://mailnesia.com/): anonymous email service for when sites annoy you to provide your email address.
 - [uBlock Origin](https://github.com/gorhill/uBlock): content filtering on your browser(s).
-- [KeePassXC](https://keepassxc.org/) and [KeePassium](https://keepassium.com/): password management because you cannot expect to remember more than 3 passwords at a time.
+- [KeePassXC](https://keepassxc.org/) and [KeePassium](https://keepassium.com/): password management because you cannot be expected to remember more than 3 passwords at a time.
 - [openvpn](https://github.com/OpenVPN/openvpn): vpn for daily use unless you reaaally need to be anonymous.
 - [qBittorent](https://github.com/qbittorrent/qBittorrent): P2P file sharing utility.
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) (macOS): utility to configure key mappings.
