@@ -5,7 +5,7 @@ draft: false
 comments: false
 images:
 tags:
-  - c
+  - tech
 ---
 
 [crayte](https://github.com/abhinavborah/crayte) is a 3d renderer made from scratch in C with minimal dependencies. Just SDL2. It is a Work In Progess.
