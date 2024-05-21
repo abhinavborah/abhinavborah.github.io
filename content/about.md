@@ -35,8 +35,8 @@ Well, to err is human. To err is also to learn. To learn is to live. Feed your c
 **Hardware:**
 
 - My current setup consists of a Macbook Air M1 (2020 base variant) and a Lenovo Legion 5 (running arch: zenkernel, dwm + polybar).
-- For typing, I use an RK84 with gateron browns, offers 3 modes of connectivity: wired, wireless, and bluetooth. Lasts about a week on full charge. (not sponsored but I won't mind being)
-- A Razer DeathAdder V2 mouse because hey, it offers wireless and bluetooth and runs only on a single AA/AAA battery! (not sponsored but I won't mind being)
+- For typing, I use an RK84 with gateron browns, offers 3 modes of connectivity: wired, wireless, and bluetooth. Lasts about a week on full charge. (not sponsored, but I wouldn't mind if they did)
+- A Razer DeathAdder V2 mouse because hey, it offers wireless and bluetooth support and runs only on a single AA/AAA battery! (not sponsored, but I wouldn't mind if they did)
 - My iPad Air (4th gen) as my secondary monitor (I plan on getting an actual external monitor soon).
 - iPhone 12 (2020, 128GB) as my daily driver.
 - iPhone SE (2020, 128GB) (16.3.1) which I jailbroke on [Dopamine](https://github.com/opa334/Dopamine) running the [KFD exploit](https://github.com/felix-pb/kfd).
