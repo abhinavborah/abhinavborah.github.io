@@ -33,7 +33,7 @@ $ hugo new post/post_name.md # this will create a new markdown file in content/p
 $ hugo server -D # runs a local server (usually on the port 1313). -D is for --buildDrafts
 ```
 
-(OR) My preferred method:
+**(OR)** My preferred method:
 
 ```bash
 $ hugo new site site_name && cd site_name # or site name can be path/to/site
