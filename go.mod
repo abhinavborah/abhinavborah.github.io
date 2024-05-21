@@ -1,4 +1,4 @@
-module github.com/abhinavborah/borah
+module github.com/abhinavborah/abhinavborah.github.io
 
 go 1.22.3
 
