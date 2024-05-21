@@ -9,13 +9,32 @@ tags:
   - meta
 ---
 
-Hey, thank you for taking the time to visit my site. This site aims at being a brain dump for my thoughts, discoveries, and implementations. If you like reading please do consider checking out _the [blog](/posts)_.
+Hey, thank you for taking the time to visit my site. This site aims at being a brain dump for my thoughts, discoveries, and implementations. If you like reading please do consider checking out _the **[blog](/posts)**_.
 
 #### মোৰ ব্লগলৈ আপোনাক স্বাগতম জনাইছো।
 
+## **_le préambule; where to find what_**
+
+Listed below provides information on how my site is structured.
+
+- Each section on the navbar (or inside the hamburger menu if you're on mobile) indicates the following:
+
+  - **_whoami_**: how/where you can reach out to me.
+  - **About**: me and this site.
+  - **Blog**: where I post my thoughts and discoveries.
+  - **Projects**: I've built so far after this site has been live.
+  - **Topics**: where you can find the articles by their respective tag(s).
+
+- An underline below the word(s) is for link to other pages/websites, to get a better [context/explanation](https://www.merriam-webster.com/dictionary/circumlocution) of it. They open in a new tab so once you're done reading, you can close them and get back to the part where you left.
+- At the end of each article, you'll see a tag which allows me to group everything coherently. Here's what each tag represents:
+
+  - **meta**: self-referential; where I talk about this site or about myself.
+  - **tech**: anything related to technology.
+  - **philo**: for philosophy and shower thoughts.
+
 ## _who am I; qualification; interests; tools I use; et cetera._
 
-I did my Bachelors in Computer Science and graduated this year (at the time of writing, 2024). Every now and then, I'll find myself [nerdsniped](https://xkcd.com/356/) by a totally different field of interest and would end up spending an unhealthy amount of time on the same. I play the [piano](https://www.youtube.com/watch?v=NKn39Cnd3nU), (used to)produce music, install [arch (btw)](https://github.com/abhinavborah/bspwm-dotfiles) on a potato PC to rice up my [dotfiles](https://github.com/abhinavborah/dotfiles), build a [3d-renderer in C](https://github.com/abhinavborah/crayte) from scratch. Some of my other interests include cinema, philosophy, and mechanical keyboards.
+I did my Bachelors in Computer Science and graduated this year (at the time of writing, 2024). Every now and then, I'll find myself [nerdsniped](https://xkcd.com/356/) by a totally different field of interest and would end up spending a copious amount of time on the same. I play the [piano](https://www.youtube.com/watch?v=NKn39Cnd3nU), (used to)produce music, occasionally [distrohop](https://en.wiktionary.org/wiki/distro-hopping) on my potato PC, build a [3d-renderer in C](https://github.com/abhinavborah/crayte) from scratch. Some of my other interests include cinema, philosophy, and mechanical keyboards.
 
 - If you're willing to get in touch with me for work or something I can help with, I'd love to hear from you.
 - If you're my potential employer, **you can find my resume [here](/files/Abhinav_Borah_SWE_Resume.pdf)**.
@@ -24,7 +43,7 @@ I did my Bachelors in Computer Science and graduated this year (at the time of w
 
 My first access to a PC was in 2007. It had an Intel Core 2 Duo, 2 GB RAM, and 256 GB HDD. Ah, the good old simpler times. I was never really much into gaming (as my PC back then could barely handle it); for the few games my PC could run over the years, I would go online and come across mods which would add more playtime to it.
 
-Some people on the forums were talking about 'Linux' which could bring new life to an old PC and I thought I should give it a try. Sometime in circa 2012 I finally managed to get Ubuntu working on my PC and that is how my journey with linux began. From there, I was amazed at the features it had to offer. Over the years, I've [distrohopped](https://en.wiktionary.org/wiki/distro-hopping) from Ubuntu to Manjaro to back to Windows (we don't talk about that) to Arch to Gentoo and back to Arch. It's been a messy journey with lots of ups and downs, I can't possibly count how many times I had to deal with kernel panics and reformat my drives; but hey, at the end of the day it drives me to gain more insight on things.
+Some people on the forums were talking about 'Linux' which could bring new life to an old PC and I thought I should give it a try. Sometime in circa 2012 I finally managed to get Ubuntu working on my PC and that is how my journey with linux began. From there, I was amazed at the features it had to offer. Over the years, I've distrohopped from Ubuntu to Manjaro to back to Windows (we don't talk about that) to Arch to Gentoo and back to Arch. It's been a messy journey with lots of ups and downs, I can't possibly count how many times I had to deal with kernel panics and reformat my drives; but hey, at the end of the day it drives me to gain more insight on things.
 
 > _"But why should I step out of my comfort zone?"_
 
@@ -43,11 +62,11 @@ Well, to err is human. To err is also to learn. To learn is to live. Feed your c
 
 **Software:**
 
-- My IDE (read: text editor) is a fork of lazyvim (dots provided above).
+- My IDE (read: text editor) is a fork of lazyvim. Most of my time is spent [here](https://github.com/abhinavborah/nvim-starter) editing text.
 - tmux (with resurrect and continuum) for multiplexing and restoring sessions.
-- alacritty as my term because GPU acceleration goes brrr.
-- dwm + polybar on arch with gruvbox as my preferred color scheme (surprise, surprise).
-- rectangle on macOS for window management (I should consider switching to Amethyst or Yabai).
+- alacritty as my term because GPU acceleration goes brrr. Check out my [dots](https://github.com/abhinavborah/dotfiles).
+- dwm + polybar on [arch btw](https://github.com/abhinavborah/bspwm-dotfiles) with gruvbox as my preferred color scheme (surprise, surprise).
+- rectangle on macOS for window management (I'm considering switching to Amethyst or Yabai).
 
 **Tools I recommend:**
 
