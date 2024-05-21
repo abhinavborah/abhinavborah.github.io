@@ -13,10 +13,12 @@ Nevertheless, I'll try to frequently update the site with new content as I gain 
 
 I love the [Jamstack](https://jamstack.org/), and [Hugo](https://gohugo.io/) offers so many features, there's nothing to lose here really.
 
-## How to start
+## How to start (WIP)
+
+Option #1: Clone it directly to your local machine
 
 ```bash
-$ git clone https://github.com/abhinavborah/borah
+$ git clone https://github.com/abhinavborah/abhinavborah.github.io
 ```
 
 ## Credits:
