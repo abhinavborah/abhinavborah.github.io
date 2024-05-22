@@ -57,9 +57,9 @@ For further configuration, check out the theme docs (usually provided in their r
 
 > The inherent ephemerality of our mortal coil compels us to engage in the Sisyphean task of constructing an enduring monument to the self, a defiant riposte against the encroaching oblivion that awaits us all.
 >
-> ~ some pretense dude on the internet
+> ~ some pretentious guy on the internet
 
-I constantly have the urge to explore new interests. There's only so many things you can excel at in a lifetime. Some call it "the jack of all trades", some others "a generalist". This blog isn't built around a specific theme or niche, instead think of it as a blank slate. Let's see where the rabbit hole of knowledge leads us. It's all about following the breadcrumbs of curiosity and sharing the adventure with anyone who wants to join.
+I constantly have the urge to explore new interests. There's only so many things you can excel at in a lifetime. Some call it "the jack of all trades", some others "a generalist". This blog isn't built around a specific theme or niche, instead think of it as a blank canvas. Let's see where the rabbit hole of knowledge leads us. It's all about following the breadcrumbs of curiosity and sharing the adventure with anyone who wants to join.
 
 We humans have this itch, this burning need to etch our names onto the world. We want our work to echo through the ages, sparking debate or admiration centuries later. I'm just leaving a digital breadcrumb here for my future self. Maybe if I visit this exact article a decade later, I'll have a cringe at it.
 

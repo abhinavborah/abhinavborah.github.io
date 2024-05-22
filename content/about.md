@@ -19,14 +19,15 @@ Listed below provides information on how my site is structured.
 
 - Each section on the navbar (or inside the hamburger menu if you're on mobile) indicates the following:
 
-  - **_whoami_**: how/where you can reach out to me.
+  - **_whoami_**: is where my socials are.
   - **About**: me and this site.
   - **Blog**: where I post my thoughts and discoveries.
   - **Projects**: I've built so far after this site has been live.
   - **Topics**: where you can find the articles by their respective tag(s).
 
 - An underline below the word(s) is for link to other pages/websites, to get a better [context/explanation](https://www.merriam-webster.com/dictionary/circumlocution) of it. They open in a new tab so once you're done reading, you can close them and get back to the part where you left.
-- At the end of each article, you'll see a tag which allows me to group everything coherently. Here's what each tag represents:
+- Articles will include share icons at the end for easy sharing on the respective platforms.
+- All the articles are tagged for easy organization, helping you find similar content. Here's what each tag is for:
 
   - **meta**: self-referential; where I talk about this site or about myself.
   - **tech**: anything related to technology.
