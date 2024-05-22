@@ -2,8 +2,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
+  position: sticky;
+  top: 0;
   padding: 20px;
+  z-index: 9999;
+  transition: top 0.8s;
+  transition-timing-function: ease;
+
   // Default
   background: $light-background-header;
 
@@ -15,11 +20,11 @@
     background: $light-background-header;
   }
 
-  [data-theme=dark] & {
+  [data-theme="dark"] & {
     background: $dark-background-header;
   }
 
-  [data-theme=light] & {
+  [data-theme="light"] & {
     background: $light-background-header;
   }
 
@@ -57,7 +62,8 @@
 
 .not-selectable {
   user-select: none;
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
+
