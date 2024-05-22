@@ -25,7 +25,7 @@ enableGlobalLanguageMenu = false
 enableInlineShortcodes = true
 
 # Metadata mostly used in document's head
-description = "My portfolio"
+description = "Welcome to my blog, dear visitor. This site isn't built around a specific theme or niche, instead think of it as a blank canvas. It's all about following the breadcrumbs of curiosity and sharing the adventure with anyone who wants to join."
 keywords = "homepage, blog, portfolio"
 images = [""]
 
