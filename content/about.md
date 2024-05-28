@@ -38,7 +38,7 @@ Listed below provides information on how my site is structured.
 I did my Bachelors in Computer Science and graduated this year (at the time of writing, 2024). Every now and then, I'll find myself [nerdsniped](https://xkcd.com/356/) by a totally different field of interest and would end up spending a copious amount of time on the same. I play the [piano](https://www.youtube.com/watch?v=NKn39Cnd3nU), (used to)produce music, occasionally [distrohop](https://en.wiktionary.org/wiki/distro-hopping) on my potato PC, build a [3d-renderer in C](https://github.com/abhinavborah/crayte) from scratch. Some of my other interests include cinema, philosophy, and mechanical keyboards.
 
 - If you're willing to get in touch with me for work or something I can help with, I'd love to hear from you.
-- If you're my potential employer, **you can find my resume [here](/files/Abhinav_Borah_SWE_Resume.pdf)**.
+- If you're my potential employer, **you can find my resume [here](/files/Abhinav_Borah_Resume.pdf)**.
 
 {{< image src="/img/hello-there.jpg" alt="Hello Friend" position="center" style="border-radius: 2rem;" caption="Here is a picture of me and no this was not created by some generative pre-trained transformer." >}}
 
