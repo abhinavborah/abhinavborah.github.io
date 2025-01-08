@@ -1,17 +1,10 @@
 # My website
 
-> _“All nature is but art, unknown to thee;
-> All chance, direction, which thou canst not see;"_
-
-This website is a dynamic and iterative exploration of my evolving consciousness. It serves as a persistent platform for the dissemination of my ideas, experiences, and intellectual pursuits across a diverse range of subjects.
-
-Well, that sounds pretentious.
-
-Nevertheless, I'll try to frequently update the site with new content as I gain more insight into things. If you have any questions or comments, please [contact me](https://twitter.com/abhinavexists) on Twitter.
+This is an ever evolving project where I attempt to maintain a journal and update the site with new content as I gain more insight about life. If you have any questions or comments, please [connect with me](https://twitter.com/abhinavexists) on Twitter.
 
 ## General
 
-I love the [Jamstack](https://jamstack.org/), and [Hugo](https://gohugo.io/) offers so many features, there's nothing to lose here really.
+Built with [Hugo](https://gohugo.io/) and a passion for writing.
 
 ## How to start (WIP)
 
